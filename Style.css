@@ -1,10 +1,10 @@
 /* Creación de variables a  utilizar */
 :root {
-    --primary-color: #a9db4e;
-    --secondary-color: #c9753d;
+    --primary-color: #abafa2;
+    --secondary-color: #3dc967;
     --text-color: #333333;;
-    --background-color: #f4f4f4;
-    --light-gray: #ecf0f1;
+    --background-color: #beb2b2;
+    --light-gray: #b0e0ec;
 }
 
 
@@ -20,7 +20,7 @@ body {
 /*Sección para cambiar color de la barra de sección*/
 .header {
     background: var(--secondary-color);
-    color: rgb(233, 85, 85);
+    color: rgb(166, 231, 240);
     padding: 1rem 0;
     position: fixed;
     width: 100%;
@@ -128,7 +128,7 @@ body {
     height: 250px;
     border-radius: 10%;
     object-fit: cover;
-    border: 10px solid #550000;
+    border: 10px solid #000000;
     margin-bottom: 1rem;
 }
 
